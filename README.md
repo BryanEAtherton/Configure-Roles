@@ -4,6 +4,8 @@
 
 <h1>osTicket - Post-Installation Configuration</h1>
 
+# Configure Roles 
+
 <h2>Configuring Roles Steps</h2>
 
 <p>
