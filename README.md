@@ -36,3 +36,6 @@
 4. Under the Permissions tab set permissions for the new role.
 </p>
 <br />
+
+[Click here to return to the osTicket Post Installation Configuration Homepage](https://github.com/BryanEAtherton/osticket-post-install-setup)
+
