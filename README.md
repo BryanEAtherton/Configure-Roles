@@ -6,7 +6,6 @@
 
 # Configure Roles 
 
-<h2>Configuring Roles Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/AhvLsqF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
